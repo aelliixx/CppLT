@@ -4,7 +4,7 @@
 
 Majority of C++ keywords translated into lithuanian, courtesy of google translate.
 
-Only translated standart keywords (not all) found on [Keywords (C++) msdn page](https://msdn.microsoft.com/en-us/library/2e6a4at9.aspx).
+Only translated standard keywords (not all) found on [Keywords (C++) msdn page](https://msdn.microsoft.com/en-us/library/2e6a4at9.aspx).
 
 Some might not work as I haven't really tested.. any of them...
 
